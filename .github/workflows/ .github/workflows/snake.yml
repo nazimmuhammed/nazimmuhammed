@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {} # allows manual run from Actions tab
   push:
     branches:
-      - main
+      - master
 
 jobs:
   generate:
